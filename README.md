@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nobh
 - 👀 I’m interested in Web Development & Video Games
-- 🌱 I’m currently learning IT and working at Ingenius.
+- 🌱 I’m currently learning IT and working at Improba.
 - 📫 How to reach me ? I don't know
 
 <!---
