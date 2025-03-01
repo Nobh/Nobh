@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nobh
 - 👀 I’m interested in Web Development & Video Games
-- 🌱 I’m currently learning IT and working at Improba.
-- 📫 How to reach me ? I don't know
+- 🌱 I’m currently a Software Engineer at Airbus
+- 📫 How to reach me ? 
 
 <!---
 Nobh/Nobh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
