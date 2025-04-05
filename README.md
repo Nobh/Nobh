@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nobh
 - 👀 I’m interested in Web Development & Video Games
 - 🌱 I’m currently a Software Engineer at Airbus
-- 📫 How to reach me ? 
+- 📫 How to reach me ? oubah.nadir@gmail.com
 
 <!---
 Nobh/Nobh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
